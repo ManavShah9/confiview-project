@@ -1,0 +1,11 @@
+streamlit
+google-generativeai
+opencv-python-headless
+mediapipe
+librosa
+SpeechRecognition
+pydub
+plotly
+pyannote.audio
+torch
+torchaudio
