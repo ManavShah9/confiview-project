@@ -30,7 +30,7 @@ except Exception as e:
     st.write("Analysis will proceed without speaker separation, treating the transcript as multiple Q&A pairs.")
 
 # Hardcode API key for local testing (replace with your actual key or use environment variable)
-API_KEY = "AIzaSyB8aJR3kyZlTQ5rB928gDt4qMYQH5SQhhM"  # Your Gemini API key
+API_KEY = "YOUR_GEMINI_API_KEY_HERE"  # Your Gemini API key
 genai.configure(api_key=API_KEY)
 # Use the latest supported Gemini model (adjust based on Google AI docs as of Feb 25, 2025)
 model = genai.GenerativeModel('gemini-1.5-pro')  # Ensure this is the correct, supported model
