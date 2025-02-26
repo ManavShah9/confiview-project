@@ -10,7 +10,10 @@ git clone https://github.com/csevatsalshah/confiview-project
 ```
 
 ### step 2
-add your gemini api key
+Replacy your actual Gemini Api Key on **app.py**
+
+![image](https://github.com/user-attachments/assets/3cd532f0-aef2-4966-8634-9fb0c330eb45)
+
 
 ### step 3
 install all the nessacery libraries
